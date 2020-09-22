@@ -9,7 +9,7 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to Autos Database (881cb553)</title>
+    <title>399b2711</title>
     <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
