@@ -14,7 +14,7 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
 </head>
 <body>
 <div class="container">
-    <h2>Welcome to the Automobiles Database (881cb553)</h2>
+    <h2>Welcome to the Automobiles Database (399b2711)</h2>
     <?php
     if (isset($_SESSION['success'])) {
         echo('<p style="color: green;">' . htmlentities($_SESSION['success']) . "</p>\n");
