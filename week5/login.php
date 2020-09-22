@@ -40,7 +40,7 @@ if (isset($_POST['email']) && isset($_POST['pass'])) {
 <html>
 <head>
     <?php require_once "bootstrap.php"; ?>
-    <title>Welcome to Autos Database (881cb553)</title>
+    <title>Welcome to Autos Database (399b2711)</title>
 </head>
 <body>
 <div class="container">
